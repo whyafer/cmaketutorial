@@ -1,0 +1,10 @@
+^E:\JETBRAINS\PROJECT\C++\CMAKETUTORIAL\TUTORIALRUN\MATHFUNCTIONS\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SE:/jetBrains/Project/C++/cmaketutorial/tutorialrun -BE:/jetBrains/Project/C++/cmaketutorial/tutorialrun/debug --check-stamp-file E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/debug/MathFunctions/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

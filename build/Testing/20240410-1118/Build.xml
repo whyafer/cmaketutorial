@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240410-1118-Experimental"
+	Name="LAPTOP-M5M90PSH"
+	Generator="ctest-3.29.1"
+	CompilerName="E:/jetBrains/Qt/Tools/mingw1120_64/bin/c++.exe"
+	CompilerVersion="11.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-M5M90PSH"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="21464"
+	TotalPhysicalMemory="16088"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3110"
+	>
+	<Build>
+		<StartDateTime>Apr 10 19:18 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartBuildTime>1712747917</StartBuildTime>
+		<BuildCommand>D:/CMake/bin/cmake.exe --build . --config "Debug"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Apr 10 19:18 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndBuildTime>1712747918</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

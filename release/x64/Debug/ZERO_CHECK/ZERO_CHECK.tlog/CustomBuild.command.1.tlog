@@ -1,0 +1,10 @@
+^E:\JETBRAINS\PROJECT\C++\CMAKETUTORIAL\TUTORIALRUN\RELEASE\CMAKEFILES\2C2A82A719F959D6505E2FB5BBD07EAA\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SE:/jetBrains/Project/C++/cmaketutorial/tutorialrun -BE:/jetBrains/Project/C++/cmaketutorial/tutorialrun/release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/release/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

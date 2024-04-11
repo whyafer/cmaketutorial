@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240410-1211-Experimental"
+	Name="LAPTOP-M5M90PSH"
+	Generator="ctest-3.29.1"
+	CompilerName="E:/jetBrains/Qt/Tools/mingw1120_64/bin/c++.exe"
+	CompilerVersion="11.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-M5M90PSH"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="21464"
+	TotalPhysicalMemory="16088"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3110"
+	>
+	<Configure>
+		<StartDateTime>Apr 10 20:11 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartConfigureTime>1712751089</StartConfigureTime>
+		<ConfigureCommand>"D:/CMake/bin/cmake.exe" "E:/jetBrains/Project/C++/cmaketutorial/tutorialrun"</ConfigureCommand>
+		<Log>-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Apr 10 20:11 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndConfigureTime>1712751090</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

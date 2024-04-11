@@ -1,0 +1,15 @@
+[ 25%] Built target MakeTable
+[ 37%] Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cpp.obj
+E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\MathFunctions\MathFunctions.cpp:7:10: warning: 'double mathfunctions::sqrt(double)' redeclared without dllimport attribute: previous dllimport ignored [-Wattributes]
+    7 |   double sqrt(double x)
+      |          ^~~~
+[ 50%] Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.obj
+[ 62%] Linking CXX static library libMathFunctions.a
+[ 75%] Built target MathFunctions
+[ 87%] Building CXX object CMakeFiles/Tutorial.dir/tutorial.cpp.obj
+[100%] Linking CXX executable Tutorial.exe
+E:/jetBrains/Qt/Tools/mingw1120_64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: CMakeFiles\Tutorial.dir/objects.a(tutorial.cpp.obj):tutorial.cpp:(.text+0x17b): undefined reference to `__imp__ZN13mathfunctions4sqrtEd'
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[2]: *** [CMakeFiles\Tutorial.dir\build.make:100: Tutorial.exe] Error 1
+mingw32-make.exe[1]: *** [CMakeFiles\Makefile2:129: CMakeFiles/Tutorial.dir/all] Error 2
+mingw32-make.exe: *** [Makefile:165: all] Error 2
