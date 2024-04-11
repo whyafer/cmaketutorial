@@ -1,0 +1,4 @@
+E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/_CPack_Packages/win64/NSIS/Tutorial-1.0-win64/bin/Tutorial.exe
+E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/_CPack_Packages/win64/NSIS/Tutorial-1.0-win64/include/TutorialConfig.h
+E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/_CPack_Packages/win64/NSIS/Tutorial-1.0-win64/lib/libMathFunctions.a
+E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/_CPack_Packages/win64/NSIS/Tutorial-1.0-win64/include/MathFunctions.h

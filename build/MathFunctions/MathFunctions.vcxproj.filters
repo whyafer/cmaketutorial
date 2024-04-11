@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\MathFunctions\MathFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\MathFunctions\mysqrt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\build\MathFunctions\Table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\build\CMakeFiles\6a50cca42ae34b857f15ca543c84421a\Table.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\MathFunctions\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CBAC613-56C5-3273-BB9D-8563134BE7CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D9F4210C-24DD-3D6F-91DA-B1EF9431CABF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D448CF5D-A070-3253-AB9C-82570074F1FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

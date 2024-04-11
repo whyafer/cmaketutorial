@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240410-1202-Experimental"
+	Name="LAPTOP-M5M90PSH"
+	Generator="ctest-3.29.1"
+	CompilerName="E:/jetBrains/Qt/Tools/mingw1120_64/bin/c++.exe"
+	CompilerVersion="11.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-M5M90PSH"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="21464"
+	TotalPhysicalMemory="16088"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3110"
+	>
+	<Build>
+		<StartDateTime>Apr 10 20:02 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartBuildTime>1712750520</StartBuildTime>
+		<BuildCommand>D:/CMake/bin/cmake.exe --build . --config "Debug"</BuildCommand>
+		<Warning>
+			<BuildLogLine>3</BuildLogLine>
+			<Text>E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\MathFunctions\MathFunctions.cpp:7:10: warning: 'double mathfunctions::sqrt(double)' redeclared without dllimport attribute: previous dllimport ignored [-Wattributes]</Text>
+			<PreContext>[ 25%] Built target MakeTable
+[ 37%] Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cpp.obj
+</PreContext>
+			<PostContext>    7 |   double sqrt(double x)
+      |          ^~~~
+[ 50%] Building CXX object MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cpp.obj
+[ 62%] Linking CXX static library libMathFunctions.a
+[ 75%] Built target MathFunctions
+[ 87%] Building CXX object CMakeFiles/Tutorial.dir/tutorial.cpp.obj
+[100%] Linking CXX executable Tutorial.exe
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Error>
+			<BuildLogLine>11</BuildLogLine>
+			<Text>E:/jetBrains/Qt/Tools/mingw1120_64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: CMakeFiles\Tutorial.dir/objects.a(tutorial.cpp.obj):tutorial.cpp:(.text+0x17b): undefined reference to `__imp__ZN13mathfunctions4sqrtEd'</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Error>
+		<Error>
+			<BuildLogLine>12</BuildLogLine>
+			<Text>collect2.exe: error: ld returned 1 exit status</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Error>
+		<Error>
+			<BuildLogLine>13</BuildLogLine>
+			<Text>mingw32-make.exe[2]: *** [CMakeFiles\Tutorial.dir\build.make:100: Tutorial.exe] Error 1</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Error>
+		<Error>
+			<BuildLogLine>14</BuildLogLine>
+			<Text>mingw32-make.exe[1]: *** [CMakeFiles\Makefile2:129: CMakeFiles/Tutorial.dir/all] Error 2</Text>
+			<PreContext></PreContext>
+			<PostContext>mingw32-make.exe: *** [Makefile:165: all] Error 2
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Error>
+		<Warning>
+			<BuildLogLine>1</BuildLogLine>
+			<Text>*** WARNING non-zero return value in ctest from: D:/CMake/bin/cmake.exe</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Apr 10 20:02 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndBuildTime>1712750522</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

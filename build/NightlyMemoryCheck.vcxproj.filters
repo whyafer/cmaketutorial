@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\build\CMakeFiles\bb9675793cfc03a4483fff258cb154db\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\jetBrains\Project\C++\cmaketutorial\tutorialrun\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CBAC613-56C5-3273-BB9D-8563134BE7CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

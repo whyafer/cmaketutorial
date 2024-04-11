@@ -1,0 +1,10 @@
+CMake is re-running because E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/CMakeFiles/generate.stamp is out-of-date.
+  the file 'E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/CMakeFiles/3.29.1/CMakeCCompiler.cmake'
+  is newer than 'E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build/CMakeFiles/generate.stamp.depend'
+  result='-1'
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/jetBrains/Project/C++/cmaketutorial/tutorialrun/build
+[ 25%] Built target MakeTable
+[ 75%] Built target MathFunctions
+[100%] Built target Tutorial
